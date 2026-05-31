@@ -19,7 +19,7 @@ Repositorio para circuito comunicativo
 
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
-|milagros|  coordinador             | milagros.pimentel@oteima.ac.pa                  |
+|Milagros Pimentel|  coordinador             | milagros.pimentel@oteima.ac.pa                  |
 |        |               |                   |
 |        |               |                   |
 |        |               |                   |
@@ -61,10 +61,10 @@ Repositorio para circuito comunicativo
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**       |Docente y estudiante     |  Comparten información, instrucciones y aportes académicos                                                  |                      |📢
+| 🔊 **Emisor**       |Docente y estudiante     |  Comparten información, instrucciones y aportes académicos                                 📢                  |               📢       |
 | 👂 **Receptor**     |   Estudiantes y docente         |      Reciben, interpretan y procesan la información                                                    |        👥
 | 🌐 **Canal**        |       Plataformas digitales     | Ej: Google Meet, Moodle, WhatsApp, correo                |     💻📱                 |
-| ⚠️ **Ruido**        |    Factores que dificultan la comunicación        | Ej: desconexión, distracción, mal diseño de contenido    |                      |🚫📶
+| ⚠️ **Ruido**        |    Factores que dificultan la comunicación        | Ej: desconexión, distracción, mal diseño de contenido    |  🚫📶                    |
 | 🔁 **Retroalimentación** | Respuestas y comentarios     | Preguntas, respuestas, evaluaciones y opiniones                           |  💬✅                    |
 
 ---
